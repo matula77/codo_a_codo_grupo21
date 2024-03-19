@@ -1,0 +1,21 @@
+/* para alcanzar todos los elementos 
+ */
+ *{
+background-color: black;
+color: whitesmoke;
+ }
+h2{
+    color: yellow;
+    border : 1px dashed orange;
+
+} 
+/* seleccionar por clases */
+.clase1{color: green;
+    background-color: aquamarine;
+}
+/* seleccionar por identificador ID  */
+#identificador1{color: red;}
+
+/* se pueden agregar estilos a la etiqueta que no tiene una clase ni un id, pero si tiene el
+atributo "name"*/
+[name="nombre"] {color: purple;}
