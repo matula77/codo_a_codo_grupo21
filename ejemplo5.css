@@ -1,0 +1,18 @@
+/* colores */
+/* rgb(rojo, verde, azul)  */
+.rojo{
+    color: red;
+    /* color: rgb(red, green, blue); */
+
+}
+.azul{
+    color: blue;
+}
+.verde{
+color: rgba(0,255,0,0.5) green;
+background-color: grey;
+}
+.exa{
+    color: #ff00ff;/*numeros exadecimales desde el 0 hasta ff*/
+     
+}
